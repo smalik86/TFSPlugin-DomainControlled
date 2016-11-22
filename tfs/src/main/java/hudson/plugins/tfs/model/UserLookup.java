@@ -4,7 +4,7 @@ import hudson.model.User;
 
 public interface UserLookup {
     /**
-     * @param accountName Windows NT account name: domain\alias.
+     * @param accountName Windows NT account name: Domain\alias.
      *
      * @return the Jenkins {@link User} object associated with the account name
      */
