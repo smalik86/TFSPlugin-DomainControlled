@@ -1,0 +1,5 @@
+This particular version of TFS has a User Interface that allows the user to select the following options:
+
+-Resolve user using 'DOMAIN\alias'
+
+-Resolve user using 'alias' only, removing 'DOMAIN\'
